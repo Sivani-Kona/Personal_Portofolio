@@ -19,6 +19,7 @@ CSS3
 JavaScript
 
 📌 **Purpose**
+
 This project was built to create a professional online presence and demonstrate my development skills, creativity, and practical project experience.
 
 🌐 **Future Enhancements**
