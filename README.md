@@ -1,4 +1,4 @@
-🚀** Personal Portfolio Website**
+🚀 **Personal Portfolio Website**
 
 A responsive and user-friendly personal portfolio website designed to showcase my skills, projects, certifications, and achievements as an aspiring Python Full Stack Developer and Software Developer. This portfolio highlights my technical expertise in Python, HTML, CSS, JavaScript, SQL, and web development through interactive sections and modern UI design.
 
