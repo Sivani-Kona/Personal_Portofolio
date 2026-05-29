@@ -14,12 +14,9 @@ Clean and modern user interface
 
 🛠️ **Technologies Used**
 
-HTML5
-CSS3
-JavaScript
-Python
-SQL
-
+-HTML5
+-CSS3
+-JavaScript
 📌 **Purpose**
 This project was built to create a professional online presence and demonstrate my development skills, creativity, and practical project experience.
 
