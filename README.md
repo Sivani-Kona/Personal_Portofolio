@@ -1,8 +1,8 @@
-🚀 Personal Portfolio Website
+🚀** Personal Portfolio Website**
 
 A responsive and user-friendly personal portfolio website designed to showcase my skills, projects, certifications, and achievements as an aspiring Python Full Stack Developer and Software Developer. This portfolio highlights my technical expertise in Python, HTML, CSS, JavaScript, SQL, and web development through interactive sections and modern UI design.
 
-✨ Features
+✨ **Features**
 
 Responsive design for mobile, tablet, and desktop
 About Me section with career overview
@@ -12,7 +12,7 @@ Resume download option
 Contact form / social media links
 Clean and modern user interface
 
-🛠️ Technologies Used
+🛠️ **Technologies Used**
 
 HTML5
 CSS3
@@ -20,10 +20,10 @@ JavaScript
 Python
 SQL
 
-📌 Purpose
+📌 **Purpose**
 This project was built to create a professional online presence and demonstrate my development skills, creativity, and practical project experience.
 
-🌐 Future Enhancements
+🌐 **Future Enhancements**
 
 Add backend integration for contact form
 Dark/Light mode support
